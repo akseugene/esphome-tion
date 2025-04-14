@@ -62,7 +62,7 @@ PC = new_pc(
             CONF_UNIT_OF_MEASUREMENT: UNIT_MINUTE,
             CONF_TRAITS: Traits(
                 min_value=1,
-                max_value=60,
+                max_value=20,
                 initial_value=10,
             ),
         },
